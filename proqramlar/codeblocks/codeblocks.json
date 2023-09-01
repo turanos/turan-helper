@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Code::Blocks:",
+     "description": "Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users.",
+     "icon": "codeblocks",
+     "main": "codeblocks.sh"
+  }
+]

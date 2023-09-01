@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Tuxmath",
+     "description": "Tuxmath is a fun math computer game featuring a flying penguin named Tux.",
+     "icon": "tuxmath",
+     "main": "tuxmath.sh"
+  }
+]

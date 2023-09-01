@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Atom",
+     "description": "Atom for macOS, Linux and Windows free and open source code editor.",
+     "icon": "atom",
+     "main": "atom.sh"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Thonny",
+     "description": "For Python programming language tool",
+     "icon": "thonny.png",
+     "main": "thonny.sh"
+  }
+]

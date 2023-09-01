@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Arduino",
+     "description": "Arduino is a tool for programming microcontroller boards",
+     "icon": "arduino",
+     "main": "arduino.sh"
+  }
+]

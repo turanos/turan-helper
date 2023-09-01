@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Metasploit",
+     "description": "Metasploit is a tool used to discover security vulnerabilities and test systems.",
+     "icon": "metasploit",
+     "main": "metasploit.sh"
+  }
+]

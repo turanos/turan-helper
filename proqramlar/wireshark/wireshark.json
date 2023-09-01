@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Wireshark",
+     "description": "Wireshark is a powerful network analysis tool used to capture, analyze, and inspect network traffic at the packet level.",
+     "icon": "wireshark",
+     "main": "wireshark.sh"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Visual Studio Code",
+     "description": "Visual Studio Code is a lightweight code editor.",
+     "icon": "visual-studio-code",
+     "main": "visual-studio-code.sh"
+  }
+]

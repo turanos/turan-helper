@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Gnome Builder",
+     "description": "Gnome Builder is a tool developed by GNOME for developing applications.",
+     "icon": "gnome-builder",
+     "main": "gnome-builder.sh"
+  }
+]

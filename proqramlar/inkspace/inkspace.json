@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Inkspace",
+     "description": "Inkscape is a software used to create vector graphics.",
+     "icon": "inkspace",
+     "main": "inkspace.sh"
+  }
+]

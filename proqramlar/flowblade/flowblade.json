@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Flowblade",
+     "description": "Flowblade is a simple and user-friendly video editing tool.",
+     "icon": "flowblade",
+     "main": "flowblade.sh"
+  }
+]

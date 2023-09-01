@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Stellarium",
+     "description": "Scribus is an open-source desktop publishing program used to create professional-quality publications.",
+     "icon": "stellarium",
+     "main": "stellarium.sh"
+  }
+]

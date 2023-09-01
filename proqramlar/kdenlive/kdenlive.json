@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Kdenlive",
+     "description": "Kdenlive is an open-source video editing program with a user-friendly interface and comprehensive features.",
+     "icon": "kdenlive",
+     "main": "kdenlive.sh"
+  }
+]

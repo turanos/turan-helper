@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Gimp",
+     "description": "It is a tool with extensive features for graphic design.",
+     "icon": "gimp",
+     "main": "gimp.sh"
+  }
+]

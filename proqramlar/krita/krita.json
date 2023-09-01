@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Krita",
+     "description": "Krita is a software designed for digital painting and illustration.",
+     "icon": "krita",
+     "main": "krita.sh"
+  }
+]

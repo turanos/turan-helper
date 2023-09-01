@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Scratch",
+     "description": "Scratch is a visual programming language and environment for beginners.",
+     "icon": "scratch",
+     "main": "scratch.sh"
+  }
+]

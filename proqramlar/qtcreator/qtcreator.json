@@ -1,0 +1,8 @@
+[
+  {
+     "name": "QT Creator",
+     "description": "Qt Creator is an IDE for the Qt framework.",
+     "icon": "qtcreator",
+     "main": "qtcreator.sh"
+  }
+]

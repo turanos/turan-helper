@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Pitivi",
+     "description": "Pitivi is an open-source video editing software with a user-friendly interface.",
+     "icon": "pitivi",
+     "main": "pitivi.sh"
+  }
+]

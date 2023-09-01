@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Glade",
+     "description": "Glade is a user interfaces for the GTK+ toolkit.",
+     "icon": "glade",
+     "main": "glade.sh"
+  }
+]

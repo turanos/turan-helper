@@ -1,0 +1,8 @@
+[
+  {
+     "name": "Openboard",
+     "description": "OpenBoard allows teachers and students to conduct interactive lessons using interactive whiteboards.",
+     "icon": "openboard",
+     "main": "openboard.sh"
+  }
+]
